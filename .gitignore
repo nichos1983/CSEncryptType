@@ -1,6 +1,7 @@
 /Temp
 /obj
 /Library
+/Logs
 
 *.userprefs
 *.csproj
