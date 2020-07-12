@@ -1,0 +1,16 @@
+/Temp
+/obj
+/Library
+
+*.userprefs
+*.csproj
+*.suo
+*.sln
+*.user
+*.unityproj
+
+.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
